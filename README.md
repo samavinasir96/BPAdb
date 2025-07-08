@@ -13,7 +13,7 @@ Web version of the database is available at: https://mgbio.tech/bpadb/.
 
 ## Copyright
 © 2025 MGBioTech. All rights reserved.
-The Bacterial Protective Antigens Database (BPAdb) is owned by MGBIO (https://mgbio.tech) and is licensed under the MIT License. It is freely available for research and academic purposes with citation required. Any use for commercial purposes requires prior permission from MGBioTech. For inquiries, please contact MGBIO.
+The Bacterial Protective Antigens Database (BPAdb) is owned by MGBIO (https://mgbio.tech) and is licensed under the MIT License. It is freely available for research and academic purposes with citation required. Any use for commercial purposes requires prior permission from MGBIO. For inquiries, please contact MGBIO.
 
 ## Citation
 The Bacterial Protective Antigens Database (BPAdb) is a work in progress developed by MGBIO. A formal publication is forthcoming. Until the paper is published, please cite the database as follows:
