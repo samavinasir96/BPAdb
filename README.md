@@ -20,4 +20,4 @@ The Bacterial Protective Antigens Database (BPAdb) is a work in progress develop
 
 MGBioTech. (2025). Bacterial Protective Antigens Database (BPAdb). GitHub Repository. Available at: https://github.com/samavinasir96/BPAdb.git.
 
-Please check back for updates on the publication status or contact MGBioTech for further information.
+Please check back for updates on the publication status or contact MGBio for further information.
