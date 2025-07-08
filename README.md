@@ -18,6 +18,6 @@ The Bacterial Protective Antigens Database (BPAdb) is owned by MGBIO (https://mg
 ## Citation
 The Bacterial Protective Antigens Database (BPAdb) is a work in progress developed by MGBIO. A formal publication is forthcoming. Until the paper is published, please cite the database as follows:
 
-MGBioTech. (2025). Bacterial Protective Antigens Database (BPAdb). GitHub Repository. Available at: https://github.com//.
+MGBioTech. (2025). Bacterial Protective Antigens Database (BPAdb). GitHub Repository. Available at: https://github.com/samavinasir96/BPAdb.git.
 
 Please check back for updates on the publication status or contact MGBioTech for further information.
